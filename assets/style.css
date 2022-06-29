@@ -1,0 +1,30 @@
+* {
+    font-family: Arial;
+}
+h1{
+    color: grey;
+}
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+form{
+    height: auto;
+    width: 400px;
+}
+.style-text{
+    font-size: 20px;
+}
+.buttons{
+    width: 300px;
+    background-color: red;
+    padding: 16px 30px;
+    font-size: 20px;
+    text-align: center;
+}
+.hidden{
+    display: none;
+}
+
